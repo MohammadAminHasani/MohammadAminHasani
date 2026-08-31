@@ -1,60 +1,50 @@
-# Mohammad Amin Hasani
+# Hi, I'm Mohammad Amin Hasani
 
-### Full-stack Developer | Python & JavaScript
+I'm a Full-stack Developer focused on building modern web applications with **JavaScript, Python, and backend technologies**.
 
-I build modern web applications with a focus on clean code, responsive design, and practical solutions.
+I enjoy turning ideas into functional, clean, and user-friendly applications while continuously improving my software development skills.
 
-My work focuses on creating reliable software through thoughtful development, continuous learning, and real-world projects — from user interfaces to APIs and backend systems.
+## 🛠️ Technologies & Tools
 
----
-
-## 🛠️ Technical Skills
-
-**Languages**
-- Python
-- JavaScript
+### Frontend
 - HTML5
 - CSS3
-
-**Web Development**
+- JavaScript
 - Responsive Web Design
-- REST APIs
-- Frontend Development
-- Backend Development
 
-**Tools & Workflow**
+### Backend & Programming
+- Python
+- REST APIs
+- Node.js (Learning)
+- SQL (Learning)
+
+### Tools
 - Git & GitHub
 - Linux
 - VS Code
 
----
-
 ## 🚀 Featured Projects
 
-**Product API Client**  
-A lightweight Python REST API client featuring CRUD operations, request handling, error management, and testing.
+- **Product API Client**  
+  A lightweight Python REST API client with CRUD operations, error handling, and testing.
 
-**Foodmart**  
-A responsive e-commerce style web interface focused on modern layouts, usability, and clean frontend structure.
+- **Foodmart**  
+  A responsive e-commerce style food marketplace interface built with modern HTML and CSS.
 
-**Habit Tracker JS**  
-A vanilla JavaScript application designed for managing habits through interactive user workflows.
+- **Habit Tracker JS**  
+  A vanilla JavaScript application for managing and tracking personal habits.
 
-**Task Manager**  
-A Python productivity application built with structured logic and efficient data handling.
+- **Task Manager**  
+  A Python productivity application focused on application logic and data handling.
 
----
+## 📚 Currently Learning
 
-## 📚 Currently Exploring
-
-- Full-stack application architecture
-- Backend development
+- Full-stack web development
+- Backend architecture
 - Databases
-- Software engineering practices
+- Software development best practices
 
----
+## 📫 Contact
 
-## 💻 Development Approach
-
-I believe in learning by building, improving through iteration, and creating software that is simple, maintainable, and useful.
+- GitHub: [MohammadAminHasani](https://github.com/MohammadAminHasani)
 
