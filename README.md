@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mohammad Amin Hasani 👋</h1>
+<h1 align="center">Hi, I'm Mohammad Amin Hasani </h1>
 
 <h3 align="center">
 Developer focused on Full-Stack Development | Python & JavaScript | Building Real-World Applications
@@ -31,7 +31,7 @@ Currently, I'm developing my full-stack skills with Python and JavaScript while 
 
 ---
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 <p align="center">
 
@@ -50,7 +50,7 @@ Currently, I'm developing my full-stack skills with Python and JavaScript while 
 
 ---
 
-<h2>🚀 Featured Projects</h2>
+<h2> Featured Projects</h2>
 
 <table>
 <tr>
@@ -76,7 +76,7 @@ View Repository →
 
 <td width="50%">
 
-<h3>🔌 Product API Client</h3>
+<h3>Product API Client</h3>
 
 <p>
 A Python-based REST API client focused on API communication,
@@ -99,7 +99,7 @@ View Repository →
 
 <td width="50%">
 
-<h3>📋 Task Manager</h3>
+<h3>Task Manager</h3>
 
 <p>
 A Python productivity application focused on program logic,
@@ -118,7 +118,7 @@ View Repository →
 
 <td width="50%">
 
-<h3>🍔 Foodmart</h3>
+<h3>Foodmart</h3>
 
 <p>
 A responsive food marketplace interface built to practice
@@ -141,7 +141,7 @@ View Repository →
 
 <td width="50%">
 
-<h3>✅ Habit Tracker JS</h3>
+<h3>Habit Tracker JS</h3>
 
 <p>
 A JavaScript application for managing habits while practicing
@@ -164,21 +164,21 @@ View Repository →
 
 ---
 
-## 💼 Freelance
+## Freelance
 
 I'm interested in working on practical projects where I can help build useful solutions while continuing to grow as a developer.
 
 Areas I work with:
 
-- 🖥️ Responsive websites and frontend improvements
-- 🐍 Python automation and API-based projects
-- 🔧 Small web applications
+-  Responsive websites and frontend improvements
+-  Python automation and API-based projects
+-  web applications
 
 I value clear communication, clean code, and delivering reliable results.
 
 ---
 
-## 🌍 Future Goals
+## Future Goals
 
 I'm building this portfolio as part of my journey toward Computer Science / Software Engineering studies and a professional career in software development.
 
