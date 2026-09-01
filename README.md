@@ -124,6 +124,19 @@ View Repository →
 
 </td>
 
+<td width="50%">
+
+###🚗 Better driving assistant
+A modular Python driving assistant that combines route planning,
+fuel cost estimation, and trip analysis into one workflow.
+
+**Tech** Python . openStreetMap Nominatim API . GraphHopper API
+
+<br>
+<a href="https://github.com/MohammadAminHasani/better-drive-assistant">
+View Repository →
+</a>
+</td>
 </tr>
 
 </table>
