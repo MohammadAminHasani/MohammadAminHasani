@@ -50,23 +50,25 @@ Currently, I'm developing my full-stack skills with Python and JavaScript while 
 
 ---
 
-## 🚀 Featured Projects
+<h2>🚀 Featured Projects</h2>
 
 <table>
-
 <tr>
 
 <td width="50%">
 
-### 🔌 Product API Client
+<h3>🚗 Better Drive Assistant</h3>
 
-A Python-based REST API client focused on API communication, CRUD operations, error handling, and structured data management.
+<p>
+A modular Python driving assistant that combines route planning,
+fuel cost estimation, and trip analysis into one workflow.
+</p>
 
-**Tech:** Python · REST API · Testing
+<strong>Tech:</strong> Python · OpenStreetMap Nominatim API · GraphHopper API
 
-<br>
+<br><br>
 
-<a href="https://github.com/MohammadAminHasani/product-api-client">
+<a href="https://github.com/MohammadAminHasani/better-drive-assistant">
 View Repository →
 </a>
 
@@ -74,13 +76,58 @@ View Repository →
 
 <td width="50%">
 
-### 🍔 Foodmart
+<h3>🔌 Product API Client</h3>
 
-A responsive food marketplace interface built to practice modern frontend structure, layouts, and responsive design.
+<p>
+A Python-based REST API client focused on API communication,
+CRUD operations, error handling, and structured data management.
+</p>
 
-**Tech:** HTML5 · CSS3 · Responsive Design
+<strong>Tech:</strong> Python · REST API · HTTP Requests · Testing
 
-<br>
+<br><br>
+
+<a href="https://github.com/MohammadAminHasani/product-api-client">
+View Repository →
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+<h3>📋 Task Manager</h3>
+
+<p>
+A Python productivity application focused on program logic,
+data handling, and building structured application workflows.
+</p>
+
+<strong>Tech:</strong> Python · Data Handling · Application Logic
+
+<br><br>
+
+<a href="https://github.com/MohammadAminHasani/task-manager">
+View Repository →
+</a>
+
+</td>
+
+<td width="50%">
+
+<h3>🍔 Foodmart</h3>
+
+<p>
+A responsive food marketplace interface built to practice
+modern frontend structure, layouts, and responsive design.
+</p>
+
+<strong>Tech:</strong> HTML5 · CSS3 · Responsive Design
+
+<br><br>
 
 <a href="https://github.com/MohammadAminHasani/foodmart">
 View Repository →
@@ -94,13 +141,16 @@ View Repository →
 
 <td width="50%">
 
-### ✅ Habit Tracker JS
+<h3>✅ Habit Tracker JS</h3>
 
-A JavaScript application for managing habits and practicing DOM manipulation and browser storage.
+<p>
+A JavaScript application for managing habits while practicing
+DOM manipulation, events, and browser storage.
+</p>
 
-**Tech:** JavaScript · DOM · LocalStorage
+<strong>Tech:</strong> JavaScript · DOM · LocalStorage
 
-<br>
+<br><br>
 
 <a href="https://github.com/MohammadAminHasani/habit-tracker-js">
 View Repository →
@@ -108,35 +158,6 @@ View Repository →
 
 </td>
 
-<td width="50%">
-
-### 📋 Task Manager
-
-A Python productivity application focused on program logic, data handling, and application structure.
-
-**Tech:** Python · Data Handling · Application Logic
-
-<br>
-
-<a href="https://github.com/MohammadAminHasani/task-manager">
-View Repository →
-</a>
-
-</td>
-
-<td width="50%">
-
-###🚗 Better driving assistant
-A modular Python driving assistant that combines route planning,
-fuel cost estimation, and trip analysis into one workflow.
-
-**Tech** Python . openStreetMap Nominatim API . GraphHopper API
-
-<br>
-<a href="https://github.com/MohammadAminHasani/better-drive-assistant">
-View Repository →
-</a>
-</td>
 </tr>
 
 </table>
