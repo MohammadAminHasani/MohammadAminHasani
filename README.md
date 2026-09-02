@@ -57,7 +57,7 @@ Currently, I'm developing my full-stack skills with Python and JavaScript while 
 
 <td width="50%">
 
-<h3>🚗 Better Drive Assistant</h3>
+<h3> Better Drive Assistant</h3>
 
 <p>
 A modular Python driving assistant that combines route planning,
