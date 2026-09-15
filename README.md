@@ -99,25 +99,6 @@ View Repository →
 
 <td width="50%">
 
-<h3>Task Manager</h3>
-
-<p>
-A Python productivity application focused on program logic,
-data handling, and building structured application workflows.
-</p>
-
-<strong>Tech:</strong> Python · Data Handling · Application Logic
-
-<br><br>
-
-<a href="https://github.com/MohammadAminHasani/task-manager">
-View Repository →
-</a>
-
-</td>
-
-<td width="50%">
-
 <h3>Foodmart</h3>
 
 <p>
