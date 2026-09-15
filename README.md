@@ -1,32 +1,33 @@
-<h1 align="center">Hi 👋, I'm Mohammad Amin Hasani</h1>
+<h1 align="center">Hi 👋, I'm Mohammad Amin</h1>
 
 <h3 align="center">
 Full-Stack Developer | Python & JavaScript
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Python+Developer;JavaScript+Developer;Building+Real-World+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Building+Real-World+Applications;Python+%26+JavaScript+Developer;Turning+Ideas+Into+Software" />
 </p>
 
 <p align="center">
+<a href="https://github.com/MohammadAminHasani">
 <img src="https://komarev.com/ghpvc/?username=MohammadAminHasani&label=Profile%20Views&color=2b9348&style=flat"/>
+</a>
 </p>
 
 ---
 
 ## About Me
 
-💻 Developer focused on building practical software solutions and real-world applications.
+I'm a Full-Stack Developer focused on building practical applications and solving real-world problems.
 
-I enjoy creating applications that combine clean structure, problem solving, and user-focused design.
+I enjoy turning ideas into software, exploring different technologies, and creating projects that combine clean structure, functionality, and user experience.
 
-My work includes:
+My development focuses on:
 - Full-stack web development
+- Backend systems and APIs
 - Python applications
-- JavaScript projects
-- REST API integrations
-- CLI tools
-- Responsive user interfaces
+- JavaScript-based applications
+- Building reliable and maintainable software
 
 ---
 
@@ -34,10 +35,12 @@ My work includes:
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 
@@ -47,39 +50,19 @@ My work includes:
 
 ## Featured Projects
 
-🚗 **Better Drive Assistant**
+### 🚗 Better Drive Assistant
 
-Python CLI application for route planning, vehicle data integration, fuel estimation, and trip analysis.
+A Python CLI driving assistant that helps plan routes, estimate fuel costs, and analyze journeys through API integrations and modular application design.
 
-🔗 https://github.com/MohammadAminHasani/better-drive-assistant
-
-
----
-
-🛒 **Product API Client**
-
-Python REST API client with CRUD operations, search functionality, error handling, and automated testing.
-
-🔗 https://github.com/MohammadAminHasani/product-api-client
-
+🔗 [View Repository](https://github.com/MohammadAminHasani/better-drive-assistant)
 
 ---
 
-✅ **Habit Tracker JS**
+### ✅ Habit Tracker JS
 
-JavaScript application for habit management with dynamic UI updates and persistent browser storage.
+A JavaScript habit management application with interactive UI, persistent storage, and a focus on clean frontend development.
 
-🔗 https://github.com/MohammadAminHasani/habit-tracker-js
-
-
----
-
-🍔 **Foodmart**
-
-Responsive food marketplace interface built with modern HTML and CSS practices.
-
-🔗 https://github.com/MohammadAminHasani/foodmart
-
+🔗 [View Repository](https://github.com/MohammadAminHasani/habit-tracker-js)
 
 ---
 
@@ -91,6 +74,26 @@ Responsive food marketplace interface built with modern HTML and CSS practices.
 
 ---
 
+## Connect With Me
+
 <p align="center">
-⭐ Building useful software through continuous improvement.
+
+<a href="mailto:mohammadd.hasani.dev@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/mohammadamin-hasani-728291433/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://github.com/MohammadAminHasani">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</p>
+
+---
+
+<p align="center">
+Building software, solving problems, and improving through every project.
 </p>
