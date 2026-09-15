@@ -9,24 +9,28 @@ Full-Stack Developer | Python & JavaScript
 </p>
 
 <p align="center">
-<a href="https://github.com/MohammadAminHasani">
 <img src="https://komarev.com/ghpvc/?username=MohammadAminHasani&label=Profile%20Views&color=2b9348&style=flat"/>
-</a>
 </p>
 
 ---
 
 ## About Me
 
-💻 Developer focused on building practical applications.
+💻 Developer focused on building practical applications and real-world software solutions.
 
-🚀 Currently learning:
-- Node.js
-- Backend Development
-- SQL
-- Full-Stack Architecture
+🛠️ Experienced with:
+- Python development
+- JavaScript applications
+- Frontend development
+- REST APIs
+- CLI applications
+- Git & GitHub workflows
+- Testing and application structure
 
-🛠️ I learn by building real projects and improving through practice.
+🚀 Currently focusing on:
+- Node.js backend development
+- SQL and database design
+- Full-stack application development
 
 ---
 
@@ -39,6 +43,7 @@ Full-Stack Developer | Python & JavaScript
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 
 </p>
 
@@ -47,16 +52,16 @@ Full-Stack Developer | Python & JavaScript
 ## Featured Projects
 
 🚗 **Better Drive Assistant**  
-Python CLI application for route planning, fuel estimation, and trip analysis.
+Python CLI application combining route planning, vehicle data, fuel estimation, and trip analysis.
 
 🛒 **Product API Client**  
-Python REST API client with CRUD operations, search, and testing.
+Python REST API client with CRUD operations, search functionality, error handling, and automated testing.
 
 ✅ **Habit Tracker JS**  
-JavaScript habit management application with persistent storage.
+JavaScript application with dynamic UI updates and persistent browser storage.
 
 🍔 **Foodmart**  
-Responsive frontend marketplace interface.
+Responsive frontend marketplace interface built with modern HTML and CSS.
 
 ---
 
@@ -69,5 +74,5 @@ Responsive frontend marketplace interface.
 ---
 
 <p align="center">
-⭐ Building, learning, and improving one project at a time.
+⭐ Building software, improving skills, and creating useful applications.
 </p>
