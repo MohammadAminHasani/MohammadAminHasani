@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&width=600&lines=Mohammad+Amin;Full-Stack+Developer" />
 </h1>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Building+Real-World+Applications;Python+%26+JavaScript+Developer;Turning+Ideas+Into+Software" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Building+Real-World+Applications;Turning+Ideas+Into+Software;Creating+Practical+Solutions" />
 </p>
 
 <p align="center">
