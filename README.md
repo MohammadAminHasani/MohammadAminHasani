@@ -16,21 +16,17 @@ Full-Stack Developer | Python & JavaScript
 
 ## About Me
 
-💻 Developer focused on building practical applications and real-world software solutions.
+💻 Developer focused on building practical software solutions and real-world applications.
 
-🛠️ Experienced with:
-- Python development
-- JavaScript applications
-- Frontend development
-- REST APIs
-- CLI applications
-- Git & GitHub workflows
-- Testing and application structure
+I enjoy creating applications that combine clean structure, problem solving, and user-focused design.
 
-🚀 Currently focusing on:
-- Node.js backend development
-- SQL and database design
-- Full-stack application development
+My work includes:
+- Full-stack web development
+- Python applications
+- JavaScript projects
+- REST API integrations
+- CLI tools
+- Responsive user interfaces
 
 ---
 
@@ -51,17 +47,39 @@ Full-Stack Developer | Python & JavaScript
 
 ## Featured Projects
 
-🚗 **Better Drive Assistant**  
-Python CLI application combining route planning, vehicle data, fuel estimation, and trip analysis.
+🚗 **Better Drive Assistant**
 
-🛒 **Product API Client**  
+Python CLI application for route planning, vehicle data integration, fuel estimation, and trip analysis.
+
+🔗 https://github.com/MohammadAminHasani/better-drive-assistant
+
+
+---
+
+🛒 **Product API Client**
+
 Python REST API client with CRUD operations, search functionality, error handling, and automated testing.
 
-✅ **Habit Tracker JS**  
-JavaScript application with dynamic UI updates and persistent browser storage.
+🔗 https://github.com/MohammadAminHasani/product-api-client
 
-🍔 **Foodmart**  
-Responsive frontend marketplace interface built with modern HTML and CSS.
+
+---
+
+✅ **Habit Tracker JS**
+
+JavaScript application for habit management with dynamic UI updates and persistent browser storage.
+
+🔗 https://github.com/MohammadAminHasani/habit-tracker-js
+
+
+---
+
+🍔 **Foodmart**
+
+Responsive food marketplace interface built with modern HTML and CSS practices.
+
+🔗 https://github.com/MohammadAminHasani/foodmart
+
 
 ---
 
@@ -74,5 +92,5 @@ Responsive frontend marketplace interface built with modern HTML and CSS.
 ---
 
 <p align="center">
-⭐ Building software, improving skills, and creating useful applications.
+⭐ Building useful software through continuous improvement.
 </p>
