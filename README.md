@@ -21,6 +21,7 @@ I'm a Full-Stack Developer who enjoys building practical applications and solvin
 I like turning ideas into software through clean code and thoughtful design.
 I work with Python and JavaScript to create useful tools and experiences.
 Always exploring, building, and improving through new projects.
+
 ---
 
 ## Tech Stack
