@@ -13,8 +13,7 @@
 
 🚀 I work with Python and JavaScript to create useful tools and experiences.<br>
 
-🌱 Always exploring, building, and improving through new projects.
-
+🌱 Always building, refining, and exploring new ideas through software.<br>
 ---
 
 ## Tech Stack
