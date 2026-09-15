@@ -15,20 +15,12 @@ Full-Stack Developer | Python & JavaScript
 </p>
 
 ---
-
 ## About Me
 
-I'm a Full-Stack Developer focused on building practical applications and solving real-world problems.
-
-I enjoy turning ideas into software, exploring different technologies, and creating projects that combine clean structure, functionality, and user experience.
-
-My development focuses on:
-- Full-stack web development
-- Backend systems and APIs
-- Python applications
-- JavaScript-based applications
-- Building reliable and maintainable software
-
+I'm a Full-Stack Developer who enjoys building practical applications and solving real problems.
+I like turning ideas into software through clean code and thoughtful design.
+I work with Python and JavaScript to create useful tools and experiences.
+Always exploring, building, and improving through new projects.
 ---
 
 ## Tech Stack
