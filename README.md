@@ -36,7 +36,7 @@ Always exploring, building, and improving through new projects.
 
 ## Featured Projects
 
-### 🚗 Better Drive Assistant
+### Better Drive Assistant
 
 A Python CLI driving assistant that helps plan routes, estimate fuel costs, and analyze journeys through API integrations and modular application design.
 
@@ -44,7 +44,7 @@ A Python CLI driving assistant that helps plan routes, estimate fuel costs, and 
 
 ---
 
-### ✅ Habit Tracker JS
+### Habit Tracker
 
 A JavaScript habit management application with interactive UI, persistent storage, and a focus on clean frontend development.
 
