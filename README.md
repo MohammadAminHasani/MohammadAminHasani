@@ -1,9 +1,6 @@
-<h1 align="center">Hi 👋, I'm Mohammad Amin</h1>
-
-<h3 align="center">
-Full-Stack Developer | Python & JavaScript
-</h3>
-
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&width=600&lines=Mohammad+Amin;Full-Stack+Developer+%7C+Python+%26+JavaScript" />
+</h1>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Building+Real-World+Applications;Python+%26+JavaScript+Developer;Turning+Ideas+Into+Software" />
 </p>
