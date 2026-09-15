@@ -13,7 +13,8 @@
 
 🚀 I work with Python and JavaScript to create useful tools and experiences.<br>
 
-🌱 Always building, refining, and exploring new ideas through software.<br>
+🌱 Always building, refining, and exploring new ideas through software.
+
 ---
 
 ## Tech Stack
@@ -43,7 +44,7 @@ A Python CLI driving assistant that helps plan routes, estimate fuel costs, and 
 
 ---
 
-### Habit Tracker
+### Habit Tracker JS
 
 A JavaScript habit management application with interactive UI, persistent storage, and a focus on clean frontend development.
 
@@ -66,10 +67,4 @@ A JavaScript habit management application with interactive UI, persistent storag
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-</p>
-
----
-
-<p align="center">
-Building software, solving problems, and improving through every project.
 </p>
