@@ -65,15 +65,6 @@ A JavaScript habit management application with interactive UI, persistent storag
 🔗 [View Repository](https://github.com/MohammadAminHasani/habit-tracker-js)
 
 ---
-
-## GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MohammadAminHasani&show_icons=true&hide_border=true"/>
-</p>
-
----
-
 ## Connect With Me
 
 <p align="center">
